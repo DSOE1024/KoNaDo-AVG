@@ -12,6 +12,9 @@
 #### 开源许可证
 本游戏引擎项目遵守GPL2.0协议，其中Excel序列化转换组件使用了Unity-QuickSheet这个开源项目，这个项目遵守MIT许可证
 
+#### 外部使用项目
+[Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet)
+
 #### 参与贡献
 
 1.  Fork 本仓库
