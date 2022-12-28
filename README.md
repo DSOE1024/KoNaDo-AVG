@@ -1,4 +1,4 @@
-# KocoNado
+# KoNaDo AVG
 
 #### 介绍
 一个开源的视觉小说（Galgame）引擎
