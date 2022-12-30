@@ -6,7 +6,7 @@ using UnityEngine;
 [CreateAssetMenu()]
 public class AVGData : ScriptableObject
 {
-    //¶Ô»°Êı¾İ
+    //å¯¹è¯æ•°æ®
     public List<DialogContent> contents;
     
 }
@@ -14,30 +14,29 @@ public class AVGData : ScriptableObject
 
 public class DialogContent
 {
-    //¶Ô»°
+    //å¯¹è¯
     public string dialogText;
-    //Á½¸ö½ÇÉ«µÄÍ¼Æ¬
+    //ä¸¤ä¸ªè§’è‰²çš„å›¾ç‰‡
     public Texture CharaATex;
     public Texture CharaBTex;
-    //±³¾°Í¼Æ¬
+    //èƒŒæ™¯å›¾ç‰‡
     public Texture BackGround;
-    //Á½¸ö½ÇÉ«µÄÏÔÊ¾
+    //ä¸¤ä¸ªè§’è‰²çš„æ˜¾ç¤º
     public bool CharaADisplay;
     public bool CharaBDisplay;
-    //±³¾°ÒôÀÖBGM
+    //èƒŒæ™¯éŸ³ä¹BGM
     public AudioClip BgmAudio;
-    //Ã¿¾ä»°µÄ¶Ô»°ÓïÒô
+    //æ¯å¥è¯çš„å¯¹è¯è¯­éŸ³
     public AudioClip CharaAudio;
-    //ÓïËÙ
+    //è¯­é€Ÿ
     [Range(1, 100)]
     public float DialogSpeed = 10;
-    //Ñ¡Ôñ¶Ô»°
+    //é€‰æ‹©å¯¹è¯
     public bool Ischoice;
-    //Ñ¡ÏîÎÄ×Ö
+    //é€‰é¡¹æ–‡å­—
     public string BtAText;
     public string BtBText;
-
-    //°´¼üÑ¡ÏîÃû³Æ
+    //æŒ‰é”®é€‰é¡¹åç§°
     public string BtAmsg;
     public string BtBmsg;
 }
