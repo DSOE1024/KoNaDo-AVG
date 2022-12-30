@@ -1,15 +1,15 @@
 # KoNaDo AVG
 
 #### 介绍
-一个开源的AVG引擎
-主要框架是参考B站傅老师的AVG公开课，我自行扩展了一些功能（比如配音，单句调速等），如果想了解框架的可以去看一下，[華梵大學Unity3D公開課](https://www.bilibili.com/video/BV157411v7mW/?p=8&share_source=copy_web&vd_source=c011e600289db00bf69b28358596e7fb)
+一个开源的AVG引擎插件，使用C#语言编写。
+基础框架参考B站傅老师的AVG公开课，我自行扩展了功能（比如配音，单句调速，背景设置等），如果想了解框架的可以去看一下[華梵大學Unity3D公開課](https://www.bilibili.com/video/BV157411v7mW/?p=8&share_source=copy_web&vd_source=c011e600289db00bf69b28358596e7fb)
 
 #### 使用教程
 
 1.  下载最新发行版的UnityPack包
 2.  导入你的Unity项目（Unity版本需大于2020）
 3.  使用Example场景中的示例
-4.  Asset菜单栏可以新建对话数据以及角色图片数据
+4.  接下来请阅读[使用教程](https://gitee.com/DSOE1024_admin/KoNaDo-AVG/wikis/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8)
 
 #### 开源许可证
 本游戏引擎项目遵守GPL2.0协议，请在你的作品中添加许可证
