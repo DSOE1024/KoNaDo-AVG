@@ -2,7 +2,8 @@
 
 #### 介绍
 一个开源的AVG引擎插件，使用C#语言编写。
-基础框架参考B站傅老师的AVG公开课，我自行扩展了功能（比如配音，单句调速，背景设置等），如果想了解框架的可以去看一下[華梵大學Unity3D公開課](https://www.bilibili.com/video/BV157411v7mW/?p=8&share_source=copy_web&vd_source=c011e600289db00bf69b28358596e7fb)
+基础框架参考B站傅老师的AVG公开课，我自行扩展了功能（比如配音，单句调速，背景设置等），如果有更多功能需求，请在Issues下提交需求
+如果想了解框架的可以去看一下[華梵大學Unity3D公開課](https://www.bilibili.com/video/BV157411v7mW/?p=8&share_source=copy_web&vd_source=c011e600289db00bf69b28358596e7fb)
 
 #### 使用教程
 
